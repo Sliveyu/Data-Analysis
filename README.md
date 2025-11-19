@@ -2,23 +2,24 @@
 
 ## Overview - Project Purpose
 
-The goal of this project is to showcase core **data analysis**, **visualisation**, and **dashboarding skills** using the Superstore dataset. This is an interactive dashboard-style report optimised for desktop monitors, stakeholder presentations, and business intelligence workflows. The report is designed for business stakeholders who need fast, actionable insights into **sales performance**, **profitability**, **customer behavior**, and **product trends**.
+The goal of this project is to showcase core **data analysis**, **visualisation**, and **dashboarding skills**. This is an interactive dashboard optimised for desktop monitors, stakeholder presentations, and business intelligence workflows. The dashboard is designed for business stakeholders who need fast, actionable insights into **sales performance**, **profitability**, **customer behavior**, and **product trends**. The additional PDF-style Power BI report provides structured insights, deeper analysis, and strategic recommendations for stakeholders who prefer a static, presentation-ready document. To respect data privacy and confidentiality, this project uses an open-source dataset as a demonstration of my ability to extract insights and perform analysis.
 
-My analysis answers key questions like:
+My analysis presents key questions/answers such as:
 - Where and when is the business making the most profit?
 - Which customer segments and regions are driving sales?
 - What products are underperforming despite high sales?
 - How does seasonality affect orders and margins?
+- Which products tie up capital and which should be stocked deeper due to demand?
 
 This is a résumé-focused project for demonstrating my ability to:
-- Design interactive dashboards in **Power BI**
+- Design interactive dashboards and reports in **Power BI**
 - Translate raw data into insights
 - Use DAX, slicers, and calculated columns for dynamic reporting
 - Structure data stories for executive and operational audiences
 
 ---
 
-## Report Tabs & Design Breakdown
+## Report Tabs & Design Breakdown (Dashboard)
 
 ### 1. Overview / Executive Summary  
 **Purpose:** High-level KPIs and trends for stakeholders  
