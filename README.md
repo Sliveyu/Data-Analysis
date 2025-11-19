@@ -1,4 +1,5 @@
-# Power BI Superstore Dashboard – Sales, Profitability, Customer, and Product Analytics
+# Power BI Dashboard – Sales, Profitability, Customer, and Product Analytics
+# Power BI Report - Forcast Demand, Capital, Margins, Historical Demand
 
 ## Overview - Project Purpose
 
